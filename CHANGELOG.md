@@ -1,6 +1,11 @@
 # Changelog
 
-## 1.0.0 — upcoming
+## 1.0.1 — upcoming
+
+- Updated for the latest Android platform and Google Play requirements
+- No feature or behavior changes
+
+## 1.0.0
 
 - Initial release
 - Live countdown to the next visible ISS pass on your home screen
